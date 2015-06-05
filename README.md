@@ -1,6 +1,6 @@
 # Phalcon cli template
 
-This is just s sample boostraping application for command line applications using the outstanding Phalcon Framework.
+This is just sample boostraping application for command line applications using the outstanding Phalcon Framework.
 
 ## Installation
 
